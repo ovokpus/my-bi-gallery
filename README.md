@@ -6,7 +6,7 @@ This presentation is inspired by a desire to collect all the Data Analysis and B
 
 ## HR Analytics
 
-Exploratory Data Analysis for Machine Learning and Communicating Insights to Business Stakeholders. Read more about the walkthrough of this analysis [here]().
+Exploratory Data Analysis for Machine Learning and Communicating Insights to Business Stakeholders. Read more about the walkthrough of this analysis [here](https://github.com/ovokpus/my-bi-gallery/blob/main/hr-analytics.md).
 
 Below is the dashboard created to communicate insights to Business Decision makers. This leads us to see the various reasons given by employees for terminations that the employer needs to pay attention to. This is also evidenced by the Attrition, Compensation and Age visual.
 
