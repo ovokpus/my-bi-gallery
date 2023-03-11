@@ -57,7 +57,7 @@ Below are a sampling of screenshots showing different dashboards I created. The 
 ---
 
 Sample Report of 5 most clicked links per edition
-![image]()
+![image](https://github.com/ovokpus/my-bi-gallery/blob/main/images/hpco-sample-summary-report.png)
 
 ---
 
