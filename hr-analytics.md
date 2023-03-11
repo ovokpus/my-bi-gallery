@@ -37,7 +37,9 @@ At this phase, data was read into the Python Environment using the pandas packag
 
 Below is a snapshot of the code used to load the data into Python.
 
-![image]()
+![image](https://github.com/ovokpus/my-bi-gallery/blob/main/images/hr-data-in-python.png)
+
+---
 
 ## Exploratory Data Analysis
 
@@ -55,20 +57,28 @@ The Aggregation process involved passing a function through the dataset that ret
 
 Also, after aggregation, the dataset now contained 311 unique employee records. The next step in analysis involved splitting the dataset into two parts, one part consisting of employees that have quit the company voluntarily (those who were fired for cause were filtered out, because they are not useful for our analysis) and those who remain employed. Then afterwards I created simple plots for each categorical feature to determine whether each feature has a significant impact on the outcome of employees leaving or staying. The plots were created in Python using the Matplotlib and Seaborn packages.
 
-![image]()
+![image](https://github.com/ovokpus/my-bi-gallery/blob/main/images/hr-termind.png)
 
-The figure above shows a comparison of the number of employees who have quit the company, compared to those who remained. The figure below shows Employee Attrition by Gender, which indicates that gender has not real impact on Attrition.
+---
 
-![image]()
+The figure above shows a comparison of the number of employees who have quit the company, compared to those who remained. The figure below shows Employee Attrition by Gender, which indicates that gender has no real impact on Attrition.
+
+![image](https://github.com/ovokpus/my-bi-gallery/blob/main/images/hr-attrition-by-gender.png)
+
+---
 
 Conversely, the plot figure below shows that the marital status feature has an impact on Attrition. We notice a higher proportion of married and divorced employees leaving, more than those who are single.
 
-![image]()
+![image](https://github.com/ovokpus/my-bi-gallery/blob/main/images/hr-attrition-by-marital-status.png)
+
+---
 
 The final inference of this Analysis Exercise was to remove the features that have no significant impact on the prediction.
 For the continuous features, I plotted a correlation matrix(heatmap), to identify and eliminate features that are cross correlated.
 
-![image]()
+![image](https://github.com/ovokpus/my-bi-gallery/blob/main/images/hr-heatmap.png)
+
+---
 
 Using several features with high correlation may not always have a negative effect on the model but removing one of them helps make the learning algorithm faster and decreases the risk of harmful bias. In summary, the fewer features, the simpler the model.
 I used a benchmark of 0.7 correlation (+ve and -ve) between features. Where I found those, I removed one and kept the other.
@@ -95,7 +105,9 @@ Some key insights, inferred from the data include:
 2. Also, there seems to be a higher proportion of married and divorced employees leaving the company.
 3. A large proportion of attrition is coming from employees in the Production Department.
 
-![image]()
+![image](https://github.com/ovokpus/my-bi-gallery/blob/main/images/hr-analytics-dashboard.png)
+
+---
 
 ## Machine Learning Modeling and Evaluation - Bonus
 
@@ -108,7 +120,9 @@ Next up, I created the Train data and Label, as well as the test data and scaled
 
 Next, I created a 1-dimensional CNN (Convoluted Neural Network) model, which is a kind of Neural Network, using the Tensorflow and Keras Packages. This neural network has three hidden layers in between the input layer and the output layer. As per Machine Learning best practice, the activation function used was the ReLu function.
 
-![image]()
+![image](https://github.com/ovokpus/my-bi-gallery/blob/main/images/tf-nn.png)
+
+---
 
 The Neural Network Training was done in 20 epochs, until the training curve flattened, and the model reached an optimal validation accuracy value of 0.84. The model, when used to predict test cases, yielded a loss of 0.0667 and accuracy of 0.995.
 However, due to the nature of this Analysis, there are some observations made that are limiting to the accuracy of the model.
@@ -118,4 +132,6 @@ Another challenge, I think, lies on not having enough data samples. I am having 
 I was using quite similar data, both for train and testing, although the data was partitioned at the last month. This is because, it is still largely the same employees involved, whose details did not change much (if at all) between November and December 2020.
 My Recommendation is to stick with tried and tested Machine Learning methods in predicting Employee Attrition. A simple Logistic Regression, or any traditional Classification algorithm can be effective. Otherwise, a Multi-Layer Perceptron will be useful in creating this model.
 
-![image]()
+![image](https://github.com/ovokpus/my-bi-gallery/blob/main/images/tf-image.png)
+
+---

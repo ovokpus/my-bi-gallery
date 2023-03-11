@@ -29,7 +29,9 @@ This phase was the longest phase of the project, where I undertook the task of c
 
 I also created a visual showing the click-through summary data with the HPCO employees filtered out. I was able to use Power BI capabilities to implement the filtering and allow the data show only non-HPCO employees. Below is a screenshot of the summary table visual:
 
-![image]()
+![image](https://github.com/ovokpus/my-bi-gallery/blob/main/images/hpco-click-through-summary.png)
+
+---
 
 The subsequent slides of this visual report contained the 27 dashboards, showing click-through data for each edition of the newsletter from June 10, 2020, to June 9, 2021.
 
@@ -38,15 +40,26 @@ At the bottom left of the report is a table showing the clicked link addresses, 
 
 Below are a sampling of screenshots showing different dashboards I created. The other piece of this reporting then included the creation of detailed results from the top 5 most clicked links from each edition. This process involved identifying the location of each link in the original newsletter edition, to identify what content that link was mapped with. This was a slow and painstaking process which took me another 25 hours to complete.
 
+![image](https://github.com/ovokpus/my-bi-gallery/blob/main/images/hpco-july-2020.png)
+
+---
+
+![image](https://github.com/ovokpus/my-bi-gallery/blob/main/images/hpco-june-2021.png)
+
+---
+
+![image](https://github.com/ovokpus/my-bi-gallery/blob/main/images/hpco-march-2021.png)
+
+---
+
+![image](https://github.com/ovokpus/my-bi-gallery/blob/main/images/hpco-oct-2020.png)
+
+---
+
+Sample Report of 5 most clicked links per edition
 ![image]()
 
-![image]()
-
-![image]()
-
-![image]()
-
-![image]()
+---
 
 # Summarizing the Report
 

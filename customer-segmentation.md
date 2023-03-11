@@ -67,4 +67,6 @@ Heatmaps for visualizing Monthly Cohort Metrics
 
 ### Finally, we have a Dashboard to show the various RFM metrics:
 
-![alt text]()
+![alt text](https://github.com/ovokpus/my-bi-gallery/blob/main/images/rfm-dashboard.png)
+
+---

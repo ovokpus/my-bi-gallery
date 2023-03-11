@@ -12,13 +12,15 @@ Status: engines’ status
 
 A jupyter notebook `status_canvas.ipynb` was also given, visualizing the remaining life cycle of all engines in one canvas. This was an implementation done using `tkinter`, a python library for building User Interfaces. Python is not the first choice for visualization.
 
-Challenge files are linked in the [assets folder]()
+Challenge files are linked in the [assets folder](https://github.com/ovokpus/my-bi-gallery/tree/main/assets)
+
+---
 
 Challenge Question: Do you think we can build this canvas in PowerBI or any other visualization tool that you choose? Do you think we can communicate the information shown in the canvas better?
 
 My solution is here, using a custom PowerBI visual called a `cliclet_slicer`
 
-![image]()
+![image](https://github.com/ovokpus/my-bi-gallery/blob/main/images/chiclet-slicer.png)
 
 ---
 
@@ -26,4 +28,6 @@ My solution is here, using a custom PowerBI visual called a `cliclet_slicer`
 
 This was created with hands-on participating in a PowerBI course. Here I created an interactive dashboard, visible from the PowerBI service
 
-![image]()
+![image](https://github.com/ovokpus/my-bi-gallery/blob/main/images/sales-profit-dashboard.png)
+
+---

@@ -1,6 +1,6 @@
-# my-bi-gallery
+# My Business Intelligence Gallery
 
-A collection of Visualizations and summary of the insights and stories they tell about datasets from various business use cases
+This presentation is inspired by a desire to collect all the Data Analysis and BI visualization projects in one place, in order to show the importance of Visualizations in the decision making process of various Business and industries. Below is a catalog of projects that contain a BI component, and there is one that was a full BI Project on it's own.
 
 ---
 
@@ -10,7 +10,7 @@ Exploratory Data Analysis for Machine Learning and Communicating Insights to Bus
 
 Below is the dashboard created to communicate insights to Business Decision makers. This leads us to see the various reasons given by employees for terminations that the employer needs to pay attention to. This is also evidenced by the Attrition, Compensation and Age visual.
 
-![image]()
+![image](https://github.com/ovokpus/my-bi-gallery/blob/main/images/hr-analytics-dashboard.png)
 
 ---
 
@@ -30,37 +30,50 @@ The final deliverable of this Project consisted of slide presentations of summar
 Here is a summary report and a monthly dashboard created in Power BI.
 
 Summary Report
-![image]()
+![image](https://github.com/ovokpus/my-bi-gallery/blob/main/images/hpco-click-through-summary.png)
 
 ---
 
-Dashboard for \_**\_, \_\_**, 2020
-![image]()
+Dashboard for Newsletter published on March 17, 2020
+![image](https://github.com/ovokpus/my-bi-gallery/blob/main/images/hpco-march-2021.png)
+
+---
+
+Dashboard for Newsletter published on June 9, 2021
+![image](https://github.com/ovokpus/my-bi-gallery/blob/main/images/hpco-june-2021.png)
+
+---
+
+You can read more about the Newsletter Analysis project [here](https://github.com/ovokpus/my-bi-gallery/blob/main/click-through-data-analysis.md)
 
 ---
 
 ## Customer Segmentation
 
-This was from a capstone project I executed in January 2021 using Python, and Tableau. The project details are found [here](https://github.com/ovokpus/Customer-Segmentation)
+This was from a capstone project I executed in January 2021 using Python, and Tableau. The project details are found [here](https://github.com/ovokpus/Customer-Segmentation) and [here](https://github.com/ovokpus/my-bi-gallery/blob/main/customer-segmentation.md)
 
 Here is the Tableau Dashboard showing key insights on Customer Cohorts, as well as clusters of customer groups which represent various purchasing behaviors of retail customers. This data, along with the story being told by the visualizations enable retail companies to tailor their offerings and advertising strategy in order to attract and keep high-value customers coming in through their doors, or making purchases online.
 
-![image]()
+![image](https://github.com/ovokpus/my-bi-gallery/blob/main/images/rfm-dashboard.png)
 
 ---
 
 ## Tweet Stream Visualization
 
-This is a Power BI Dashboard used to consume a Data Engineering Pipeline, which was built in Microsoft Azure to stream in tweet messages from Hurricane Harvey Data, through Azure serverless functions, into Storage CosmosDB. The link to that project is [right here]().
+This is a Power BI Dashboard used to consume a Data Engineering Pipeline, which was built in Microsoft Azure to stream in tweet messages from Hurricane Harvey Data, through Azure serverless functions, into Storage CosmosDB. The link to that project is [right here](https://github.com/ovokpus/my-bi-gallery/blob/main/tweet-stream-viz.md) and also [here](https://github.com/ovokpus/Azure-Streaming-Pipeline) for the Data Engineering source code.
 
 Here is the dashboard created
-![image]()
+![image](https://github.com/ovokpus/my-bi-gallery/blob/main/images/chiclet-slicer.png)
+
+---
 
 ## Other Visualizations
 
+---
+
 ### Cliclet Slicer - PowerBI Challenge
 
-Read more in this [here]()
+Read more in this [here](https://github.com/ovokpus/my-bi-gallery/blob/main/images/tweetstream-bi-report.png)
 
 ---
 
@@ -68,6 +81,6 @@ Read more in this [here]()
 
 This was created with hands-on participating in a PowerBI course. Here I created an interactive dashboard, visible from the PowerBI service
 
-![image]()
+![image](https://github.com/ovokpus/my-bi-gallery/blob/main/images/sales-profit-dashboard.png)
 
 ---
