@@ -18,7 +18,7 @@ Challenge files are linked in the [assets folder](https://github.com/ovokpus/my-
 
 Challenge Question: Do you think we can build this canvas in PowerBI or any other visualization tool that you choose? Do you think we can communicate the information shown in the canvas better?
 
-My solution is here, using a custom PowerBI visual called a `cliclet_slicer`
+My solution is here, using a custom PowerBI visual called a `cliclet_slicer`. This solution looks simple on the face of it, but I guarantee you, it is not.
 
 ![image](https://github.com/ovokpus/my-bi-gallery/blob/main/images/chiclet-slicer.png)
 
