@@ -2,6 +2,8 @@
 
 A collection of Visualizations and summary of the insights and stories they tell about datasets from various business use cases
 
+---
+
 ## HR Analytics
 
 Exploratory Data Analysis for Machine Learning and Communicating Insights to Business Stakeholders. Read more about the walkthrough of this analysis [here]().
@@ -30,5 +32,42 @@ Here is a summary report and a monthly dashboard created in Power BI.
 Summary Report
 ![image]()
 
+---
+
 Dashboard for \_**\_, \_\_**, 2020
 ![image]()
+
+---
+
+## Customer Segmentation
+
+This was from a capstone project I executed in January 2021 using Python, and Tableau. The project details are found [here](https://github.com/ovokpus/Customer-Segmentation)
+
+Here is the Tableau Dashboard showing key insights on Customer Cohorts, as well as clusters of customer groups which represent various purchasing behaviors of retail customers. This data, along with the story being told by the visualizations enable retail companies to tailor their offerings and advertising strategy in order to attract and keep high-value customers coming in through their doors, or making purchases online.
+
+![image]()
+
+---
+
+## Tweet Stream Visualization
+
+This is a Power BI Dashboard used to consume a Data Engineering Pipeline, which was built in Microsoft Azure to stream in tweet messages from Hurricane Harvey Data, through Azure serverless functions, into Storage CosmosDB. The link to that project is [right here]().
+
+Here is the dashboard created
+![image]()
+
+## Other Visualizations
+
+### Cliclet Slicer - PowerBI Challenge
+
+Read more in this [here]()
+
+---
+
+### Superstore Sales and Profit Data
+
+This was created with hands-on participating in a PowerBI course. Here I created an interactive dashboard, visible from the PowerBI service
+
+![image]()
+
+---
