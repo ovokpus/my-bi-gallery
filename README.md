@@ -63,23 +63,26 @@ Here is the Tableau Dashboard showing key insights on Customer Cohorts, as well 
 This is a Power BI Dashboard used to consume a Data Engineering Pipeline, which was built in Microsoft Azure to stream in tweet messages from Hurricane Harvey Data, through Azure serverless functions, into Storage CosmosDB. The link to that project is [right here](https://github.com/ovokpus/my-bi-gallery/blob/main/tweet-stream-viz.md) and also [here](https://github.com/ovokpus/Azure-Streaming-Pipeline) for the Data Engineering source code.
 
 Here is the dashboard created
-![image](https://github.com/ovokpus/my-bi-gallery/blob/main/images/chiclet-slicer.png)
+
+![image](https://github.com/ovokpus/my-bi-gallery/blob/main/images/tweetstream-bi-report.png)
 
 ---
 
 ## Other Visualizations
 
+These are visualizations created in other circumatances: A technical evaluation in a hiring process, and a hands-on learning project.
+
+Read more about these visualizations [here](https://github.com/ovokpus/my-bi-gallery/blob/main/learning-projects.md)
+
 ---
 
 ### Cliclet Slicer - PowerBI Challenge
 
-Read more in this [here](https://github.com/ovokpus/my-bi-gallery/blob/main/images/tweetstream-bi-report.png)
+![image](https://github.com/ovokpus/my-bi-gallery/blob/main/images/chiclet-slicer.png)
 
 ---
 
 ### Superstore Sales and Profit Data
-
-This was created with hands-on participating in a PowerBI course. Here I created an interactive dashboard, visible from the PowerBI service
 
 ![image](https://github.com/ovokpus/my-bi-gallery/blob/main/images/sales-profit-dashboard.png)
 
