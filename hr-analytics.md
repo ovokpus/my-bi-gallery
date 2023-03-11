@@ -1,6 +1,6 @@
 # Exploratory Analysis for a HR Analytics company
 
-our project objective was further streamlined into developing a model as Proof-of-Concept that predicts employee Attrition, based on available data, as collected by the Employers.
+Our project objective was further streamlined into developing a model as Proof-of-Concept that predicts employee Attrition, based on available data, as collected by the Employers.
 
 The focus for this presentation is the Visualizations created in the process of exploring the data. The purpose of these visualizations were twofold:
 
